@@ -8,3 +8,4 @@ Password Generator Website
 
 #Enhance your online security with just a few clicks. Perfect for everyday use and keeping your accounts safe!
 
+![Alt text](https://github.com/AditiDeore/PASSWORD-GENERATOR/blob/main/Screenshot%20(158).png)
